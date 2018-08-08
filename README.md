@@ -9,7 +9,8 @@
 
 ### API
 
-* 공통사항
+**공통사항**
+
 request header에 pongift-accesskey값이 포함되어야 합니다.
 pongift-accesskey는 서비스 등록 후 전달드립니다.
 
