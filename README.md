@@ -9,8 +9,12 @@
 
 ### API
 
-서버 IP를 등록 후 이용할 수 있습니다.
-hklee@platfos.com 로 전달바랍니다.
+* 공통사항
+request header에 pongift-accesskey값이 포함되어야 합니다.
+pongift-accesskey는 서비스 등록 후 전달드립니다.
+
+모든 API는 서버 IP를 등록 후 이용할 수 있습니다.
+서버 IP는 hklee@platfos.com으로 주시면 등록하겠습니다.
 
 - [카테고리](https://github.com/platfos01/api-document/blob/master/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC.md)
 - [상품](https://github.com/platfos01/api-document/blob/master/%EC%83%81%ED%92%88.md)
