@@ -2,8 +2,8 @@
 
 ### 서버정보
 
-- 개발서버: dev.pongift.com
-- 운영버서: pongift.com
+- 개발서버: https://dev.pongift.com, dev.pongift.com:8080
+- 운영버서: https://pongift.com
 
 - - -
 
